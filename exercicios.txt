@@ -1,0 +1,9 @@
+1) O que faz este programa?
+2) Descreva o que faz cada linha do programa.
+3) Faça com que o programa salve, em separado, as décadas de 70, 80, 90, 2000, 2010.
+4) Mude o programa para que os títulos dos filmes não tenham aspas. Ver https://processing.org/reference/String.html
+5) Faça com que o programa salve ids, titulos e anos dos filmes.
+6) Faça com que o programa salve um arquivo com todos as diretoras ou diretores existentes na lista (Pode repetir).
+7) Faça com que o programa salve um arquivo com a quantidade de filmes feitos nas décadas de 80, 90, 2000 e 2010.
+8) Termine todos os exercícios de todas as matérias de informática deste bimestre.
+9) Faça somente depois de terminar a 8. 5) Faça com que o programa salve os filmes em ordem alfabética.
